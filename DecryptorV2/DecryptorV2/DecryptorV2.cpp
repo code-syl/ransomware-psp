@@ -6,7 +6,6 @@
 #include "../CryptoPP/cryptlib.h"
 #include "../CryptoPP/rijndael.h"
 #include "../CryptoPP/modes.h"
-#include "../CryptoPP/files.h"
 #include "../CryptoPP/osrng.h"
 #include "../CryptoPP/hex.h"
 struct Key {
